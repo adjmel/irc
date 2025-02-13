@@ -1,0 +1,6 @@
+greeting: hi; hello; salut; hola
+bye: bye; bye-bye
+dono: I do not undsertand ...; I am limited ... for now ...
+nouriture: j'ai faim, on va mamger
+jeux: tu connais un jeu
+bad-word: shut up; bull shit
